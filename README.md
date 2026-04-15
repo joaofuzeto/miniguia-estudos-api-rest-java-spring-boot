@@ -7,8 +7,11 @@ Estudar construção de APIs REST com Spring Boot, com foco em boas práticas e 
 
 # 📚 Fontes Utilizadas
 Spring Boot Docs <https://docs.spring.io/spring-boot/docs/0.0.x/reference/htmlsingle/?utm_source=chatgpt.com>
+
 Baeldung <https://www.baeldung.com/spring-tutorial?utm_source=chatgpt.com>
+
 Oracle Java Docs <https://docs.spring.io/spring-boot/index.html?utm_source=chatgpt.com>
+
 Dev.to <https://dev.to/zuplo/spring-boot-api-tutorial-build-document-and-secure-a-rest-api-3mn9>
 
 # 🤖 Engenharia de Prompts
